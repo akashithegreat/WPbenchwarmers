@@ -1,5 +1,5 @@
 1. Clone the repository
-   git clone https://github.com/YOUR_USERNAME/benchwarmers.com.git
+   git clone https://github.com/akashithegreat/benchwarmers.com.git
    cd benchwarmers.com
 
 2. Install dependencies
